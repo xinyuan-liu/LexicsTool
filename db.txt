@@ -44,7 +44,7 @@ albino a. 白化病
 #
 alg
 pain
-neuralgia n. 神经病
+neuralgia n. 神经痛
 nostalgia n. 思乡病
 #
 alt
@@ -1125,7 +1125,7 @@ homage n. 敬意
 hor
 to shudder
 horrid a. 可怕的
-horriable a. 可怕的
+horrible a. 可怕的
 #
 hospit
 guest
@@ -2864,7 +2864,7 @@ divide v. 分开，划分
 division n. 划分，区分
 #
 vig, viv, vit
-lift
+life
 vivid a. 活泼的，生动的
 vigor n. 精力
 vitamin n. 维生素
